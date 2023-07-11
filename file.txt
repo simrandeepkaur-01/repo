@@ -1,2 +1,9 @@
+git config --global user.name ""
+[A[A[B[Bgit config user.name ""
+[A[Bgit config user.name - shows username
+git add .
+git add --a
 git add -p
-to add selected file.
+git commit 
+git commit -m "message"
+git [Brm --cached file.name
