@@ -7,3 +7,5 @@ git add -p
 git commit 
 git commit -m "message"
 git [Brm --cached file.name
+this is file.txt.
+new line added.
