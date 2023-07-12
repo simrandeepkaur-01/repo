@@ -1,7 +1,0 @@
-this is file 3.txt
-dddddddddddddd
-dddddddddddd
-gggggggggggg
-vvvvvvvvvvvvvv
-bbbbbbbbbbb
-dfsdf
