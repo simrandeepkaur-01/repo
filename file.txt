@@ -7,3 +7,4 @@ git add -p
 git commit 
 git commit -m "message"
 git [Brm --cached file.name
+file in sd-new branch.
