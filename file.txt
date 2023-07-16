@@ -1,0 +1,14 @@
+git config --global user.name ""
+config user.name ""
+ user.name - shows username
+git add .
+git add --a
+git add -p
+git commit 
+git commit -m "message"
+git [Brm --cached file.name
+this is file.txt.
+new line added.
+newly added text.
+
+this is the file.txt
