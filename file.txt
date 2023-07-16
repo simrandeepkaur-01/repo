@@ -1,6 +1,6 @@
 git config --global user.name ""
-[A[A[B[Bgit config user.name ""
-[A[Bgit config user.name - shows username
+config user.name ""
+ user.name - shows username
 git add .
 git add --a
 git add -p
@@ -10,3 +10,5 @@ git [Brm --cached file.name
 this is file.txt.
 new line added.
 newly added text.
+
+this is the file.txt
